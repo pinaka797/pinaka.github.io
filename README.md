@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ### Yo YO
-[Second Page]{second-page}
+[Second Page](second-page)
 
 ### Markdown
 
